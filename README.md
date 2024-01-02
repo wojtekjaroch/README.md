@@ -8,7 +8,7 @@ technical skills and interpersonal finesse.
 
 Technical Skills:
 
-Python: Writing clean and efficient code.
+##Python: Writing clean and efficient code.
 Flask: Building secure and scalable web apps.
 Java & OOP: Developing structured applications.
 Spring Boot & Hibernate: Creating RESTful APIs and backends.
