@@ -8,7 +8,7 @@ technical skills and interpersonal finesse.
 
 Technical Skills:
 
-## Python: 
+# Python: 
 Writing clean and efficient code.
 ## Flask: 
 Building secure and scalable web apps.
