@@ -6,21 +6,21 @@ Client-centric approach involving meticulous client needs analysis and
 relationship-building, fostering substantial trust. In essence: encapsulating a holistic blend of
 technical skills and interpersonal finesse.
 
-Technical Skills:
+## Technical Skills:
 
 ### Python: 
 Writing clean and efficient code.
-## Flask: 
+### Flask: 
 Building secure and scalable web apps.
-## Java & OOP: 
+### Java & OOP: 
 Developing structured applications.
-## Spring Boot & Hibernate: 
+### Spring Boot & Hibernate: 
 Creating RESTful APIs and backends.
-## JavaScript & React: 
+### JavaScript & React: 
 Crafting dynamic front-ends.
-## Database Management: 
+### Database Management: 
 Proficient in MySQL.
-## Continuous learner:
+### Continuous learner:
 Interested in software-hardware integration, PLC programming and AI.
 
 ## Collaboration
